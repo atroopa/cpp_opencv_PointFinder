@@ -1,0 +1,3 @@
+/home/apatec/CLionProjects/opencv_test/CMakeFiles/main.dir
+/home/apatec/CLionProjects/opencv_test/CMakeFiles/edit_cache.dir
+/home/apatec/CLionProjects/opencv_test/CMakeFiles/rebuild_cache.dir
