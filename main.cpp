@@ -39,7 +39,7 @@ int main(int argc, char** argv)
             putText(img,point_text,Point2i(point.x, point.y),FONT_HERSHEY_COMPLEX,0.25,Scalar(255,15,3),0.25);
         }
         imshow(" Window", img);
-
+        cout << "Load Success ..." << endl;
     }
     return 0;
 
